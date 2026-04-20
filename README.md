@@ -51,7 +51,7 @@ You can attach a **custom domain** to your CDN endpoint to make the website look
 
 Steps:
 1. Navigate to your CDN endpoint.
-2. Find the **Custom Domain** option.
+2. Find the Custom Domain option.
 3. Add your custom domain name.
 4. In your **DNS provider**, add a **CNAME record** pointing your custom domain to the CDN endpoint URL.
 5. Enable HTTPS — you can either:
@@ -98,10 +98,10 @@ User Request
 
 ## Prerequisites
 
-- An active **Azure Subscription**
-- A **Storage Account** created in Azure Portal
+- An active Azure Subscription
+- A Storage Account created in Azure Portal
 - Static website files (HTML, CSS, JS, images) ready for upload
-- (Optional) A registered **custom domain** with access to its DNS settings
+- (Optional) A registered custom domain with access to its DNS settings
 
 ---
 
